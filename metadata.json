@@ -1,0 +1,6 @@
+{
+  "name": "Movement & Break Tracker",
+  "description": "A mobile-first sedentary lifestyle prevention app with focus intervals, guided stretch routines, hydration logging, and daily healthy habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
